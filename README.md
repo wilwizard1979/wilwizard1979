@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wilwizard1979
 - 👀 I’m interested in Home Automation, Home Assistant, Zigbee
-- 🌱 I’m currently learning ZHA, Zigbee2MQTT, ESP
+- 🌱 I’m currently learning ZHA, Zigbee2MQTT, ESP, Tuya, Ikea, Sonoff, connecting all new devices from my home.
 - 💞️ I’m looking to collaborate on Coding, hardware connection, new integrations, testing
 - 📫 How to reach me william.vidal@gmail.com
 
